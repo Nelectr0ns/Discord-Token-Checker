@@ -8,5 +8,5 @@ go build . / go run main.go
 
 ----------------------------------------------------------------
 ```
-And juste launch it
+And just launch it
 ```
